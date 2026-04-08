@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Calwest paving co",
+    "phone": "+19253831068",
+    "category": "driveway paving",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Driveway Paving Pros",
+      "heroSubline": "Durable driveways built to withstand the Bay Area climate. Expert paving services from Calwest Paving Co.",
+      "aboutTitle": "Decades of Driveway Expertise",
+      "aboutText": [
+        "Calwest Paving Co. started with a simple goal: to provide San Francisco residents with durable, beautiful driveways that stand the test of time. Founded by a team of seasoned paving professionals, we've built our reputation on quality workmanship and unwavering dedication to customer satisfaction.",
+        "We believe in a straightforward approach. We'll assess your needs, provide a clear and honest estimate, and deliver a finished product that exceeds your expectations. No hidden fees, no shortcuts – just quality paving you can rely on.",
+        "We're proud to be a part of the San Francisco community. We source materials locally whenever possible, and we're committed to environmentally responsible practices. We treat every project, big or small, as an opportunity to enhance the beauty and value of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Unmatched Durability",
+          "description": "We use high-quality materials and proven techniques to ensure your driveway withstands heavy use and harsh weather."
+        },
+        {
+          "title": "Precise Installation",
+          "description": "Our experienced team pays meticulous attention to detail, ensuring a flawless finish and long-lasting performance."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed estimates with no hidden costs, so you know exactly what to expect."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of paving in San Francisco, from soil conditions to local regulations."
+        }
+      ],
+      "ctaHeadline": "Get a Free Driveway Paving Quote",
+      "ctaSubline": "Transform your property with a durable, beautiful driveway from Calwest Paving Co."
+    },
+    "services": [
+      {
+        "slug": "asphalt-driveway-paving",
+        "name": "Asphalt Driveway Paving",
+        "shortDescription": "Durable and cost-effective asphalt driveways for San Francisco homes.",
+        "description": "Asphalt driveways are a popular choice in San Francisco for their durability and cost-effectiveness. Calwest Paving Co. specializes in asphalt paving, providing smooth, long-lasting surfaces that can handle daily wear and tear. We start by carefully preparing the base, ensuring proper drainage and stability. Our experienced pavers then apply multiple layers of high-quality asphalt, compacting each layer for maximum strength and longevity. \n\nWhether you need a new asphalt driveway or an asphalt resurfacing, we have the expertise to deliver exceptional results. We carefully grade the asphalt to prevent water pooling, a common issue in San Francisco's rainy climate. We also offer sealcoating services to protect your asphalt from the elements and extend its lifespan. Our asphalt paving process ensures a smooth, even surface that enhances your property's curb appeal and functionality.\n\nFrom initial excavation to final striping, we handle every aspect of your asphalt driveway project with precision and care. We use only the highest quality materials and equipment to guarantee a durable, long-lasting asphalt driveway that will stand up to the demands of San Francisco living. We also offer asphalt driveway repair services to fix cracks, potholes, and other damage.",
+        "process": [
+          "Step 1: Site Assessment and Preparation",
+          "Step 2: Base Layer Installation and Compaction",
+          "Step 3: Asphalt Paving and Grading",
+          "Step 4: Compaction and Finishing"
+        ],
+        "benefits": [
+          "Durable and long-lasting",
+          "Cost-effective paving solution",
+          "Smooth and even surface",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long will an asphalt driveway last in San Francisco?",
+            "answer": "With proper maintenance, an asphalt driveway can last 20-30 years in the San Francisco climate. Sealcoating every 2-3 years will significantly extend its lifespan."
+          },
+          {
+            "question": "How much does an asphalt driveway cost?",
+            "answer": "The cost depends on the size of the driveway, the thickness of the asphalt, and any necessary site preparation. Contact us for a free estimate tailored to your specific needs."
+          },
+          {
+            "question": "How long does it take to install an asphalt driveway?",
+            "answer": "Most asphalt driveway installations take 1-3 days, depending on the size and complexity of the project."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-driveway-paving",
+        "name": "Concrete Driveway Paving",
+        "shortDescription": "Durable and versatile concrete driveways for San Francisco homes.",
+        "description": "Concrete driveways offer a durable and versatile paving solution for San Francisco homeowners. Calwest Paving Co. specializes in designing and installing concrete driveways that enhance your property's aesthetic appeal and provide long-lasting performance. We use high-strength concrete mixes that are specifically formulated to withstand the weight of vehicles and the elements.\n\nOur concrete driveway services include everything from initial excavation and grading to concrete pouring and finishing. We offer a variety of decorative concrete options, including stamped concrete, exposed aggregate, and colored concrete, to create a unique and personalized look for your driveway. We also install proper expansion joints to prevent cracking due to temperature changes, a common issue in San Francisco's varied climate.\n\nWe understand the importance of proper drainage in concrete driveway construction. We carefully slope the concrete to ensure water runoff and prevent water damage. Our team of experienced concrete finishers ensures a smooth, even surface that is both aesthetically pleasing and safe to drive on. We are committed to providing San Francisco homeowners with concrete driveways that are built to last.",
+        "process": [
+          "Step 1: Excavation and Grading",
+          "Step 2: Formwork and Reinforcement",
+          "Step 3: Concrete Pouring and Leveling",
+          "Step 4: Finishing and Curing"
+        ],
+        "benefits": [
+          "Highly durable and long-lasting",
+          "Versatile design options",
+          "Low maintenance requirements",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take for a concrete driveway to cure?",
+            "answer": "Concrete typically takes 28 days to fully cure, but you can usually drive on it after 7 days. We recommend avoiding heavy vehicles during the initial curing period."
+          },
+          {
+            "question": "Can I seal my concrete driveway?",
+            "answer": "Yes, sealing your concrete driveway can protect it from stains, chemicals, and weathering. We recommend sealing it every 1-2 years."
+          },
+          {
+            "question": "What are the benefits of stamped concrete?",
+            "answer": "Stamped concrete offers a wide range of decorative patterns and colors, allowing you to create a unique and personalized look for your driveway. It also provides a textured surface that enhances traction."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-repair-resurfacing",
+        "name": "Driveway Repair & Resurfacing",
+        "shortDescription": "Fix cracks, potholes, and damage with our driveway repair services.",
+        "description": "Is your San Francisco driveway showing signs of wear and tear? Cracks, potholes, and uneven surfaces not only detract from your property's appearance but can also pose safety hazards. Calwest Paving Co. offers comprehensive driveway repair and resurfacing services to restore your driveway to its former glory.\n\nWe assess the damage to determine the best course of action. Smaller cracks can often be filled with crack filler, while larger cracks may require more extensive repairs. Potholes are patched with high-quality asphalt or concrete, ensuring a seamless and durable repair. If your driveway is severely damaged, resurfacing may be the most cost-effective solution. We'll apply a new layer of asphalt or concrete over the existing surface, providing a fresh, smooth finish.\n\nWe understand the importance of timely repairs. Delaying repairs can lead to further damage and more costly repairs down the road. Our team of experienced professionals will quickly and efficiently repair your driveway, minimizing disruption to your daily routine. We pride ourselves on providing affordable and reliable driveway repair services to San Francisco homeowners.",
+        "process": [
+          "Step 1: Damage Assessment",
+          "Step 2: Crack Filling and Patching",
+          "Step 3: Resurfacing (if needed)",
+          "Step 4: Sealing and Finishing"
+        ],
+        "benefits": [
+          "Improved safety and appearance",
+          "Extended driveway lifespan",
+          "Cost-effective solution",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my driveway needs resurfacing?",
+            "answer": "If your driveway has numerous cracks, potholes, and an uneven surface, resurfacing may be the best option. We can assess the damage and provide a recommendation."
+          },
+          {
+            "question": "How long does driveway repair take?",
+            "answer": "Most driveway repairs can be completed in 1-2 days, depending on the extent of the damage."
+          },
+          {
+            "question": "What is the best way to prevent driveway cracks?",
+            "answer": "Proper drainage, regular sealing, and avoiding heavy vehicles can help prevent driveway cracks."
+          }
+        ]
+      },
+      {
+        "slug": "sealcoating",
+        "name": "Driveway Sealcoating",
+        "shortDescription": "Protect your asphalt driveway with our professional sealcoating services.",
+        "description": "Sealcoating is essential for protecting your asphalt driveway from the elements and extending its lifespan. Calwest Paving Co. offers professional sealcoating services to San Francisco homeowners. Our high-quality sealants create a protective barrier against water, oil, chemicals, and UV rays, preventing damage and deterioration.\n\nWe start by thoroughly cleaning your driveway to remove dirt, debris, and loose particles. We then apply a premium-grade sealant evenly across the surface, ensuring complete coverage. Our sealcoating process helps to prevent cracks, potholes, and fading, keeping your driveway looking its best for years to come.\n\nSealcoating not only protects your driveway but also enhances its appearance. It provides a dark, rich finish that improves curb appeal and adds value to your property. We recommend sealcoating your asphalt driveway every 2-3 years to maintain its optimal condition. Our team of experienced professionals will provide a fast and efficient sealcoating service, minimizing disruption to your daily routine.",
+        "process": [
+          "Step 1: Driveway Cleaning",
+          "Step 2: Crack Filling (if needed)",
+          "Step 3: Sealant Application",
+          "Step 4: Curing and Drying"
+        ],
+        "benefits": [
+          "Protects against water, oil, and chemicals",
+          "Extends driveway lifespan",
+          "Enhances appearance",
+          "Prevents cracks and potholes"
+        ],
+        "faq": [
+          {
+            "question": "How long does sealcoating take to dry?",
+            "answer": "Sealcoating typically takes 24-48 hours to dry completely. We recommend avoiding driving or walking on the surface during this time."
+          },
+          {
+            "question": "How often should I sealcoat my driveway?",
+            "answer": "We recommend sealcoating your asphalt driveway every 2-3 years."
+          },
+          {
+            "question": "Can I sealcoat my driveway myself?",
+            "answer": "While you can sealcoat your driveway yourself, professional sealcoating ensures proper application and a long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "decorative-driveway-options",
+        "name": "Decorative Driveway Options",
+        "shortDescription": "Enhance your curb appeal with decorative concrete and paving designs.",
+        "description": "Looking to add a touch of elegance and personality to your San Francisco home? Calwest Paving Co. offers a wide range of decorative driveway options to enhance your curb appeal and create a unique look for your property. We specialize in stamped concrete, exposed aggregate, and colored concrete, providing endless design possibilities.\n\nStamped concrete allows you to replicate the look of natural stone, brick, or tile at a fraction of the cost. We offer a variety of patterns and colors to complement your home's architecture and landscaping. Exposed aggregate creates a textured surface with a natural, rustic appearance. Colored concrete adds a vibrant and eye-catching element to your driveway.\n\nOur team of experienced concrete finishers will work with you to design and install a decorative driveway that meets your specific needs and preferences. We use high-quality materials and proven techniques to ensure a durable and long-lasting finish. We are committed to providing San Francisco homeowners with decorative driveway options that enhance their property's value and beauty.",
+        "process": [
+          "Step 1: Design Consultation",
+          "Step 2: Pattern and Color Selection",
+          "Step 3: Concrete Pouring and Stamping",
+          "Step 4: Sealing and Finishing"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Unique and personalized designs",
+          "Increased property value",
+          "Variety of options"
+        ],
+        "faq": [
+          {
+            "question": "What is stamped concrete?",
+            "answer": "Stamped concrete is concrete that has been textured and patterned to resemble natural stone, brick, or tile."
+          },
+          {
+            "question": "How much does stamped concrete cost?",
+            "answer": "The cost of stamped concrete depends on the pattern, color, and size of the driveway. Contact us for a free estimate."
+          },
+          {
+            "question": "How long does stamped concrete last?",
+            "answer": "With proper maintenance, stamped concrete can last for many years."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-drainage-solutions",
+        "name": "Driveway Drainage Solutions",
+        "shortDescription": "Prevent water damage with our expert driveway drainage solutions.",
+        "description": "Proper drainage is crucial for maintaining the integrity and longevity of your San Francisco driveway. Calwest Paving Co. offers expert driveway drainage solutions to prevent water damage and erosion. We assess your property to identify potential drainage issues and recommend the most effective solutions.\n\nOur drainage services include installing French drains, catch basins, and culverts to redirect water away from your driveway. We also ensure proper grading and sloping to promote water runoff. Our team of experienced professionals will design and install a drainage system that effectively protects your driveway from water damage.\n\nWe understand the importance of addressing drainage issues promptly. Water damage can lead to cracks, potholes, and foundation problems, which can be costly to repair. Our drainage solutions are designed to prevent these issues and ensure the long-term stability of your driveway. We are committed to providing San Francisco homeowners with reliable and effective driveway drainage solutions.",
+        "process": [
+          "Step 1: Site Assessment",
+          "Step 2: Drainage System Design",
+          "Step 3: Installation of Drains and Culverts",
+          "Step 4: Grading and Sloping"
+        ],
+        "benefits": [
+          "Prevents water damage and erosion",
+          "Extends driveway lifespan",
+          "Protects foundation",
+          "Improves property value"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe to redirect water away from an area."
+          },
+          {
+            "question": "How much does a French drain cost?",
+            "answer": "The cost of a French drain depends on the length and depth of the trench. Contact us for a free estimate."
+          },
+          {
+            "question": "How do I know if I need a French drain?",
+            "answer": "If you have standing water on your driveway or near your foundation, you may need a French drain."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co is proud to offer expert driveway paving services to the residents and businesses of San Francisco. From the iconic Victorian homes of Alamo Square to the bustling streets of downtown, we understand the unique needs of this vibrant city. We're committed to providing durable, aesthetically pleasing paving solutions that enhance the curb appeal of your property and withstand the test of time, no matter the weather. \n\nOur team has extensive experience working on projects throughout San Francisco, navigating the city's diverse terrain and adhering to local regulations. Whether you need a new driveway installation, repairs to existing pavement, or sealcoating to protect your investment, Calwest Paving Co is your trusted partner for quality workmanship and exceptional customer service. We use only the highest quality materials and employ proven techniques to ensure lasting results that exceed your expectations.",
+        "localContext": "San Francisco's unique architectural landscape and often foggy climate demand a paving solution that is both beautiful and resilient.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co extends its premier driveway paving services to the dynamic city of Oakland. Serving neighborhoods from Jack London Square to the hills of Montclair, we provide customized paving solutions that complement Oakland's diverse architectural styles and meet the specific needs of its residents and businesses. We are committed to delivering top-quality workmanship and exceptional customer service, ensuring that every project is completed to your satisfaction.\n\nWhether you're looking to install a new driveway, repair existing pavement, or enhance the curb appeal of your property, Calwest Paving Co is your trusted partner. Our experienced team uses only the finest materials and employs proven techniques to ensure long-lasting results. We understand the importance of a well-maintained driveway, and we're dedicated to providing you with a durable and aesthetically pleasing paving solution that enhances the value of your Oakland property.",
+        "localContext": "Oakland's blend of historic charm and modern development requires paving solutions that are both aesthetically pleasing and structurally sound.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co is delighted to offer its expert driveway paving services to the residents and businesses of Berkeley. From the vibrant Telegraph Avenue to the serene hills of North Berkeley, we understand the unique characteristics of this progressive city. We are dedicated to providing paving solutions that are not only durable and aesthetically pleasing but also environmentally conscious.\n\nOur team has extensive experience working on projects throughout Berkeley, navigating the city's diverse terrain and adhering to local regulations. Whether you need a new driveway installation, repairs to existing pavement, or sealcoating to protect your investment, Calwest Paving Co is your trusted partner for quality workmanship and exceptional customer service. We pride ourselves on using sustainable materials and employing environmentally friendly practices whenever possible.",
+        "localContext": "Berkeley's environmentally conscious community appreciates paving solutions that are both durable and sustainable.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "El Cerrito"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co is proud to serve the residents and businesses of Daly City with top-quality driveway paving services. From the coastal areas to the residential neighborhoods, we offer customized paving solutions that meet the specific needs of this diverse community. We are committed to providing exceptional workmanship and outstanding customer service, ensuring that every project is completed to your satisfaction.\n\nWhether you're looking to install a new driveway, repair existing pavement, or enhance the curb appeal of your property, Calwest Paving Co is your trusted partner. Our experienced team uses only the finest materials and employs proven techniques to ensure long-lasting results. We understand the importance of a well-maintained driveway, and we're dedicated to providing you with a durable and aesthetically pleasing paving solution that enhances the value of your Daly City property.",
+        "localContext": "Daly City's proximity to the coast requires paving materials that can withstand the effects of salt air and moisture.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Pacifica",
+          "San Bruno"
+        ]
+      },
+      {
+        "city": "South San Francisco",
+        "slug": "south-san-francisco-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co provides expert driveway paving services in South San Francisco, catering to both residential and commercial properties. As the \"Industrial City,\" South San Francisco requires durable and reliable paving solutions. Our team is dedicated to providing top-quality workmanship and exceptional customer service to ensure your paving needs are met with precision and care.\n\nWe offer a range of services, including new driveway installations, asphalt repairs, and sealcoating, all designed to enhance the functionality and appearance of your property. Calwest Paving Co uses only the highest quality materials and advanced techniques to ensure long-lasting results that withstand the demands of daily use and the local climate. We are committed to providing paving solutions that meet the specific needs and preferences of our clients in South San Francisco.",
+        "localContext": "South San Francisco's industrial presence and varied weather patterns demand durable and well-maintained paving solutions.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Daly City",
+          "Millbrae"
+        ]
+      },
+      {
+        "city": "San Bruno",
+        "slug": "san-bruno-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co is your trusted partner for driveway paving services in San Bruno. We understand the importance of a well-maintained driveway for both residential and commercial properties. Our team is dedicated to providing top-quality workmanship and exceptional customer service to ensure your paving needs are met with precision and care.\n\nWhether you need a new driveway installation, asphalt repairs, or sealcoating, Calwest Paving Co offers a comprehensive range of services to enhance the functionality and appearance of your property. We use only the highest quality materials and advanced techniques to ensure long-lasting results that withstand the demands of daily use and the local climate. Our commitment to excellence makes us the preferred paving contractor in San Bruno.",
+        "localContext": "San Bruno's location near the San Francisco International Airport requires paving solutions that can handle increased traffic and environmental factors.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Millbrae",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Millbrae",
+        "slug": "millbrae-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co is proud to offer top-quality driveway paving services to the residents and businesses of Millbrae. Known for its beautiful residential areas and thriving commercial sector, Millbrae demands paving solutions that are both aesthetically pleasing and durable. We are committed to providing exceptional workmanship and outstanding customer service, ensuring that every project is completed to the highest standards.\n\nOur team of experienced professionals uses only the finest materials and employs proven techniques to deliver long-lasting results. Whether you need a new driveway installation, repairs to existing pavement, or sealcoating to protect your investment, Calwest Paving Co is your trusted partner. We understand the importance of a well-maintained driveway, and we're dedicated to providing you with a paving solution that enhances the value and curb appeal of your Millbrae property.",
+        "localContext": "Millbrae's upscale neighborhoods require paving solutions that are both visually appealing and structurally sound.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Burlingame",
+          "San Mateo"
+        ]
+      },
+      {
+        "city": "Burlingame",
+        "slug": "burlingame-ca",
+        "state": "CA",
+        "content": "Calwest Paving Co is excited to provide expert driveway paving services to the community of Burlingame. Noted for its beautiful eucalyptus trees and well-maintained properties, Burlingame requires paving solutions that blend seamlessly with its aesthetic. We are dedicated to delivering top-quality workmanship and exceptional customer service, ensuring that every project is completed to your satisfaction.\n\nWe offer a comprehensive range of services, including new driveway installations, asphalt repairs, and sealcoating, all designed to enhance the functionality and appearance of your property. Calwest Paving Co uses only the highest quality materials and advanced techniques to ensure long-lasting results that withstand the demands of daily use and the local climate. Our commitment to excellence makes us the preferred paving contractor in Burlingame.",
+        "localContext": "Burlingame's affluent neighborhoods and unique architectural styles require paving solutions that are both elegant and durable.",
+        "nearbyAreas": [
+          "San Mateo",
+          "Millbrae",
+          "Hillsborough"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "Calwest Paving Co. did an excellent job paving our new asphalt driveway. The crew was professional, efficient, and the finished product looks fantastic. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Concrete Driveway Repair",
+        "text": "We had several large cracks in our concrete driveway. Calwest Paving Co. repaired the cracks quickly and effectively. The price was reasonable, and the service was great.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Driveway Sealcoating",
+        "text": "Calwest Paving Co. sealcoated our asphalt driveway and it looks brand new! The team was professional and thorough, and the price was very competitive. I appreciate the attention to detail.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Decorative Concrete Driveway",
+        "text": "We hired Calwest Paving Co. to install a stamped concrete driveway, and we couldn't be happier with the results. The design is beautiful, and the workmanship is top-notch. It completely transformed the look of our home!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Driveway Drainage Installation",
+        "text": "Calwest Paving Co. installed a French drain system to address water pooling issues on our driveway. The problem is completely resolved, and we are very pleased with the service.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Asphalt Driveway Resurfacing",
+        "text": "Our old asphalt driveway was cracked and uneven. Calwest Paving Co. resurfaced it, and it looks fantastic. The team was professional and efficient, and the price was reasonable.",
+        "date": "2025-04-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Calwest Paving Co. | San Francisco Driveways",
+        "description": "Expert driveway paving in San Francisco. Asphalt, concrete, repairs & more. Free quotes! Durable, beautiful driveways."
+      },
+      "about": {
+        "title": "About Calwest Paving Co. | San Francisco",
+        "description": "Learn about Calwest Paving Co., San Francisco's trusted driveway paving experts. Quality workmanship & customer satisfaction."
+      },
+      "services": {
+        "title": "San Francisco Driveway Paving Services",
+        "description": "Asphalt, concrete, sealcoating, repairs. Calwest Paving Co. offers complete driveway services in San Francisco. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact Calwest Paving Co. | San Francisco",
+        "description": "Get a free quote for your driveway paving project in San Francisco. Call Calwest Paving Co. today!"
+      },
+      "reviews": {
+        "title": "Calwest Paving Co. Reviews | San Francisco",
+        "description": "Read reviews from satisfied Calwest Paving Co. customers in San Francisco. Quality driveway paving & repair services."
+      },
+      "service-areas": {
+        "title": "Driveway Paving Service Areas | Calwest Paving",
+        "description": "Calwest Paving provides driveway paving and repair services in San Francisco and surrounding Bay Area cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-driveway-paving": "/images/service-asphalt-driveway-paving.webp",
+      "concrete-driveway-paving": "/images/service-concrete-driveway-paving.webp",
+      "driveway-repair-resurfacing": "/images/service-driveway-repair-resurfacing.webp",
+      "sealcoating": "/images/service-sealcoating.webp",
+      "decorative-driveway-options": "/images/service-decorative-driveway-options.webp",
+      "driveway-drainage-solutions": "/images/service-driveway-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-driveway-paving": {
+        "src": "/images/service-asphalt-driveway-paving.webp",
+        "srcset": "/images/service-asphalt-driveway-paving-400w.webp 400w, /images/service-asphalt-driveway-paving-800w.webp 800w, /images/service-asphalt-driveway-paving-1200w.webp 1200w, /images/service-asphalt-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-driveway-paving": {
+        "src": "/images/service-concrete-driveway-paving.webp",
+        "srcset": "/images/service-concrete-driveway-paving-400w.webp 400w, /images/service-concrete-driveway-paving-800w.webp 800w, /images/service-concrete-driveway-paving-1200w.webp 1200w, /images/service-concrete-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-repair-resurfacing": {
+        "src": "/images/service-driveway-repair-resurfacing.webp",
+        "srcset": "/images/service-driveway-repair-resurfacing-400w.webp 400w, /images/service-driveway-repair-resurfacing-800w.webp 800w, /images/service-driveway-repair-resurfacing-1200w.webp 1200w, /images/service-driveway-repair-resurfacing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sealcoating": {
+        "src": "/images/service-sealcoating.webp",
+        "srcset": "/images/service-sealcoating-400w.webp 400w, /images/service-sealcoating-800w.webp 800w, /images/service-sealcoating-1200w.webp 1200w, /images/service-sealcoating.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "decorative-driveway-options": {
+        "src": "/images/service-decorative-driveway-options.webp",
+        "srcset": "/images/service-decorative-driveway-options-400w.webp 400w, /images/service-decorative-driveway-options-800w.webp 800w, /images/service-decorative-driveway-options-1200w.webp 1200w, /images/service-decorative-driveway-options.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-drainage-solutions": {
+        "src": "/images/service-driveway-drainage-solutions.webp",
+        "srcset": "/images/service-driveway-drainage-solutions-400w.webp 400w, /images/service-driveway-drainage-solutions-800w.webp 800w, /images/service-driveway-drainage-solutions-1200w.webp 1200w, /images/service-driveway-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
